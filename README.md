@@ -127,5 +127,4 @@ Usage Instructions:
    DOI: https://doi.org/10.1007/s10922-025-09928-x
    ```
 
-Contact:
-For questions or contributions, please open an issue or submit a pull request on the repository page.
+
